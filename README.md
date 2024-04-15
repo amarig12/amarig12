@@ -1,11 +1,20 @@
-<h1>Hi, I'm Amari! <br/><a href="https://github.com/amarig12">Programmer</a>, <a href="https://www.linkedin.com/in/amari-gordon/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Amari! <br/><a href="https://www.linkedin.com/in/amari-gordon/">Assistant Platform Developer</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 My Projects:</h2>
 
 - <b>Python</b>
-  - [Vulnerability Scanner](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Port Scanner](https://github.com/amarig12/Port-Scanner)
   - [Password Strength Tester](https://github.com/amarig12/Password-Strength-Tester)
   - [Simple Caesar Encryption](https://github.com/amarig12/Simple-Caesar-Encryption)
+ 
+- <b>Java</b>
+  - [Library Management System](https://github.com/amarig12/Library-Management-System)
+ 
+- <b>C</b>
+  - [Student Results Reader](https://github.com/amarig12/Student-Marks-Reader)
+ 
+- <b>HTML & CSS</b>
+  - [Simple Website w/ Multiple Pages](https://github.com/amarig12/Webpage)
 
 
 
