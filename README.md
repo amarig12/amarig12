@@ -1,4 +1,4 @@
-<h1>Hi, I'm Amari! <br/><a href="https://www.linkedin.com/in/amari-gordon/">Assistant Platform Developer</a></h1>
+<h1>Hi, I'm Amari! <br/><a href="https://www.linkedin.com/in/amari-gordon/">Software Developer Intern</a></h1>
 
 <h2>👨‍💻 My Projects:</h2>
 
