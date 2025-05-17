@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
+- <b>Full Stack</b>
+  - [Inventory Management System](https://github.com/amarig12/project-inventory-app)
+
 - <b>Python</b>
   - [Port Scanner](https://github.com/amarig12/Port-Scanner)
   - [Password Strength Tester](https://github.com/amarig12/Password-Strength-Tester)
